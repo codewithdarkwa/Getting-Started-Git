@@ -1,3 +1,15 @@
-h1{
-    color:green;
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.bar{
+    display: block;
+    width: 1.5rem;
+    height: 0.2rem;
+    background-color: #000;
+    margin-block: 0.3rem;
 }
